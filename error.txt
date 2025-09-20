@@ -1,0 +1,2 @@
+The error says it is expecting a ; before the close of the main funtion. 
+that is, i didnt close the printf statement.
