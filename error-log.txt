@@ -1,0 +1,7 @@
+[Running] cd "c:\Users\USER\Desktop\git lessons\c-introduction\" && gcc hello.c -o hello && "c:\Users\USER\Desktop\git lessons\c-introduction\"hello
+hello.c: In function 'main':
+hello.c:5:5: error: expected declaration or statement at end of input
+    5 |     printf("Hello world !");
+      |     ^~~~~~
+
+[Done] exited with code=1 in 0.405 seconds
