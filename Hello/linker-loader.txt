@@ -1,0 +1,2 @@
+linker operates offline while loader operates online
+A linker creates a single executable program by combining multiple object files and libraries, while a loader places that executable into main memory (RAM) so it can be run by the operating system
